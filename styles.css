@@ -7,12 +7,12 @@
   width: 50%;
   padding: 10px;
 }
+
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-
 }
 
 .nav-logo {
@@ -29,17 +29,16 @@
     position: relative;
     align-items: center;
     padding-right: 150px;
-    
 }
 
-ul{
+.nav_list{
     list-style: none;
     text-align: right;
     margin: 0;
     padding: 0;
 }
 
-li{
+.list{
     display: inline-block;
     margin: 10px;
 }
@@ -49,16 +48,34 @@ li{
     display: inline-flex;
     margin-left: auto;
     margin-right: auto;
-
 }
 
 .landing_img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%
+    width: 50%;
+}
+
+.two_part{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .landing_txt{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.list_award{
+    display: flex;
+}
+
+.press_logo{
+    width: 50px;
+}
+
