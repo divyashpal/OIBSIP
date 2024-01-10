@@ -79,3 +79,43 @@
     width: 50px;
 }
 
+.centre_area{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.ecosystem{
+    height: 500px;
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; */
+}
+
+.centre_txt{
+    justify-content: center; 
+    text-align: center; 
+    width: 100%;
+}
+
+.footer{
+    text-align: left;
+    display: flex;
+}
+
+.foot_logo{
+    margin-left: 100px;
+}
+
+.foot_1, .foot_2, .foot_3{
+    margin: 50px;
+}
+
+.foot_txt{
+    margin-top: 0px;
+    margin-left: 300px;
+    display: flex;
+    text-align: left;
+}
