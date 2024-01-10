@@ -1,6 +1,25 @@
-.navbar {
-    /* border-bottom: 1px solid black;
-    display: flex; */
+* {
+
+}
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.btn{
+    font-size: 20px;
+    color: white;
+    padding:10px 25px;
+    border-radius: 5px;
+    background-color: #3468C0;
+    border: none;
 }
 .centre{
     margin: auto;
@@ -41,6 +60,7 @@
 .list{
     display: inline-block;
     margin: 10px;
+    font-size: 15px;
 }
 
 .landing{
@@ -107,6 +127,7 @@
 
 .foot_logo{
     margin-left: 100px;
+    margin-top: 80px;
 }
 
 .foot_1, .foot_2, .foot_3{
@@ -115,7 +136,21 @@
 
 .foot_txt{
     margin-top: 0px;
-    margin-left: 300px;
+    margin-left: 100px;
     display: flex;
     text-align: left;
+}
+
+.foot_ul{
+    list-style: none;
+    font-size: 20px;
+}
+
+.nav_head{
+    font-size: 25px;
+    font-weight:bolder;
+}
+
+li{
+    margin-bottom: 10px;
 }
