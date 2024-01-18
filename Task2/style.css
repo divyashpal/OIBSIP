@@ -7,5 +7,7 @@ body{
 }
 
 .profile{
+    margin-top: 10px;
     border-radius: 50%;
+    border: none;
 }
